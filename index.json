@@ -1,0 +1,107 @@
+{
+  "array": [
+    {
+      "marca": "citroen",
+      "modello": "ds3",
+      "allestimento": "so chic",
+      "colore": "bianco"
+    },
+
+    {
+      "marca": "kia",
+      "modello": "sportage",
+      "allestimento": "gt-line",
+      "colore": "rosso"
+    },
+    {
+      "marca": "ford",
+      "modello": "fiesta",
+      "allestimento": "st",
+      "colore": "blu"
+    },
+    {
+      "marca": "ford",
+      "modello": "focus",
+      "allestimento": "st-line",
+      "colore": "nero"
+    },
+    {
+      "marca": "mitsubishi",
+      "modello": "lancer evo IV",
+      "allestimento": "gsr",
+      "colore": "bianco"
+    },
+    {
+      "marca": "nissan",
+      "modello": "skyline GT-R",
+      "allestimento": "v-spec",
+      "colore": "blu"
+    },
+    {
+      "marca": "honda",
+      "modello": "civic",
+      "allestimento": "v-spec",
+      "colore": "giallo"
+    },
+    {
+      "marca": "ford",
+      "modello": "mustang",
+      "allestimento": "gt",
+      "colore": "rosso"
+    },
+    {
+      "marca": "ferrari",
+      "modello": "f-40",
+      "allestimento": "lm",
+      "colore": "rosso"
+    },
+    {
+      "marca": "ferrari",
+      "modello": "488",
+      "allestimento": "gtb",
+      "colore": "rosso"
+    },
+    {
+      "marca": "ferrari",
+      "modello": "f430",
+      "allestimento": "none",
+      "colore": "rosso"
+    },
+    {
+      "marca": "lamborghini",
+      "modello": "gallardo",
+      "allestimento": "sv",
+      "colore": "giallo"
+    },
+    {
+      "marca": "toyota",
+      "modello": "celica",
+      "allestimento": "st185",
+      "colore": "bianco"
+    },
+    {
+      "marca": "lancia",
+      "modello": "delta",
+      "allestimento": "evo",
+      "colore": "bianco"
+    },
+    {
+      "marca": "subaru",
+      "modello": "legacy",
+      "allestimento": "sti",
+      "colore": "blu"
+    },
+    {
+      "marca": "ford",
+      "modello": "rs200",
+      "allestimento": "none",
+      "colore": "bianco"
+    },
+    {
+      "marca": "bmw",
+      "modello": "serie 3",
+      "allestimento": "M",
+      "colore": "nero"
+    }
+  ]
+}
